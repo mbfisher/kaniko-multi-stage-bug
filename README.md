@@ -65,4 +65,4 @@ Hello, World!
 
 - `docker login`
 - Build and push the base images with `setup.sh`
-- Produce the bug with `run.sh`
+- Produce the bug with `kaniko-build.sh`
